@@ -144,3 +144,10 @@ Feel free to contribute to this project by:
 ## License
 
 This project is open source and available under the MIT License. 
+**Author:** Hassan Raza
+**GitHub:** https://github.com/HassanRaza0302
+
+Copyright (c) 2025 Hassan Raza. All rights reserved.
+
+---
+*Developed with ?? by Hassan Raza*
